@@ -1,1 +1,1 @@
-{"name":"s4-api","display_name":"s4-api","owner":"GazWilson","auth_method":"Basic","auth_options":{},"paging_method":"None","paging_options":{},"tables":[],"id":"5872b6252979b61200a23901","base_endpoint":"https://s4labour.com/WebAPI/api/Account/LogIn"}
+{"name":"s4-api","display_name":"s4-api","owner":"GazWilson","auth_method":"Basic","auth_options":{},"paging_method":"None","paging_options":{},"tables":[],"id":"5872b6252979b61200a23901","base_endpoint":"https://s4labour.com/WebAPI/api/Account/LogIn","data_element":"JSON"}
